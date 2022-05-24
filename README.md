@@ -1,4 +1,4 @@
-<img src="./helloworld.png" alt="profile">
+<p align="center"><img src="./helloworld.png" alt="profile" width="400px"></p>
 
 <!--
 **cona-tus/cona-tus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
