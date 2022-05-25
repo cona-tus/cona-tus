@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=rect&&color=0:b2dfdb,100:00796b&height=150&section=header&text=C%20o%20n%20a%20t%20u%20s&fontSize=50&fontAlignY=50&fontColor=000000)
-
 <p align="center"><img src="./helloworld.png" alt="profile" width="600px"></p>
 
 # Hello, There! I'm Yeeun ✨
