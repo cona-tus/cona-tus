@@ -1,3 +1,5 @@
+<br/>
+
 # YeeunKim⏤@cona-tus ✨
 
 <br/>
@@ -28,6 +30,10 @@ I'm Yeeun. I'm a junior developer who lives in Seoul.
 <!-- <img src="https://img.shields.io/badge/TypeScript-whitesmoke?style=flat&logo=TypeScript&logoColor=#3178C6"/>  -->
 <img src="https://img.shields.io/badge/React-rgb(91, 210, 243)?style=flat&logo=React&logoColor=ffffff"/>
 </p>
+
+<br/>
+<br/>
+<br/>
 
 <!--
 **cona-tus/cona-tus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
