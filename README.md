@@ -38,6 +38,7 @@ I'm ready to go for it!
 <img src="https://img.shields.io/badge/css-rgb(55, 113, 181)?style=flat&logo=css3&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Sass-rgb(191, 64, 128)?style=flat&logo=Sass&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/JavaScript-rgb(246, 225, 88)?style=flat&logo=JavaScript&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Git-f05032?style=flat&logo=git&logoColor=ffffff"/>
 <!-- <img src="https://img.shields.io/badge/TypeScript-whitesmoke?style=flat&logo=TypeScript&logoColor=#3178C6"/>  -->
 <img src="https://img.shields.io/badge/React-rgb(91, 210, 243)?style=flat&logo=React&logoColor=ffffff"/>
 </p>
