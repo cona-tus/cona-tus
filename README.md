@@ -13,6 +13,16 @@
 
 Hello, there! I'm Yeeun. I'm a junior developer who lives in Seoul.
 
+I’ve dreamed that I could make someone’s life easier. I learn programming to connect people to the world. My goal with coding is to make applications for disadvantaged groups.
+
+I'm hungry to learn, and I learn what I don't know with an open mind. I believe that I will become a hardworking front-end developer.
+
+I'm ready to go for it!
+
+<br>
+
+[![Gmail Badge](https://img.shields.io/badge/Email-54AA46?style=flat&logo=Naver&logoColor=ffffff&link=mailto:nlp.with.deep.cona_tus@naver.com)](mailto:nlp.with.deep.cona_tus@naver.com)
+
 <br/>
 <br/>
 
@@ -30,18 +40,3 @@ Hello, there! I'm Yeeun. I'm a junior developer who lives in Seoul.
 
 <br/>
 <br/>
-
-<!--
-**cona-tus/cona-tus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
