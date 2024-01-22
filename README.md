@@ -1,4 +1,4 @@
-# YeeunKim⏤@cona-tus ✨
+# WanKim⏤@cona-tus ✨
 
 <br/>
 
@@ -8,7 +8,7 @@
 
 ## 👋 Greeting
 
-Hello, there! I'm Yeeun, a junior developer living in Seoul. My dream is to make people's lives easier and connect them to the world through coding. My ultimate goal is to create applications that can help disadvantaged groups. I learn what I don't know with an open mind, and I'm passionate about learning. I am confident that I will become a hardworking front-end developer. I'm ready to go for it!
+Hello, there! I'm Wan, a junior developer living in Seoul. My dream is to make people's lives easier and connect them to the world through coding. My ultimate goal is to create applications that can help disadvantaged groups. I learn what I don't know with an open mind, and I'm passionate about learning. I am confident that I will become a hardworking front-end developer. I'm ready to go for it!
 
 <br/>
 
